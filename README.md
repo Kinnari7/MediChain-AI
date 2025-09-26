@@ -1,4 +1,4 @@
-# AI-Agents-for-Medical-Diagnostics
+# MediChain AI - AI Agents for Medical Diagnostics
 
 A Python project that creates specialized **LLM-based AI agents** to analyze complex medical cases.  
 The system integrates insights from different medical specialists to provide comprehensive assessments  
